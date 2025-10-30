@@ -11,3 +11,4 @@
 
 - IceHockey2022 and 2023 - [Kaggle Link](https://www.kaggle.com/datasets/whats2000/nhl-player-state-with-salary-and-competition-state)
 - NHL 2024-25 - [Kaggle Link](https://www.kaggle.com/datasets/natenadeau/nhl-2024-25-statscontacts)
+- Goalies and Skaters - [Kaggle Link](https://www.kaggle.com/datasets/flynn28/nhl-player-database?select=GOALIES.csv)
