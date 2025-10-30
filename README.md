@@ -20,3 +20,9 @@
 - NFL Player Stats - [Kaggle Link](https://www.kaggle.com/datasets/loganlauton/nfl-player-data)
 - Super Bowl History (1967 - 2020) - [Kaggle Link](https://www.kaggle.com/datasets/timoboz/superbowl-history-1967-2020)
 
+### Basketball Datasets
+
+- NBA Players (all_seasons.csv) - [Kaggle Link](https://www.kaggle.com/datasets/justinas/nba-players-data)
+- 2021 - 2022 NBA Stats Playoffs/Regular - [Kaggle Link](https://www.kaggle.com/datasets/vivovinco/nba-player-stats?select=2021-2022+NBA+Player+Stats+-+Regular.csv)
+- NBA Salaries 2022 - 2023 - [Kaggle Link](https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season?select=nba_salaries.csv)
+- NBA Contracts 2010 - 2021 - [Kaggle Link](https://www.kaggle.com/datasets/jarosawjaworski/current-nba-players-contracts-history)
