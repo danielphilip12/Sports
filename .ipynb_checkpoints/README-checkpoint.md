@@ -12,3 +12,11 @@
 - IceHockey2022 and 2023 - [Kaggle Link](https://www.kaggle.com/datasets/whats2000/nhl-player-state-with-salary-and-competition-state)
 - NHL 2024-25 - [Kaggle Link](https://www.kaggle.com/datasets/natenadeau/nhl-2024-25-statscontacts)
 - Goalies and Skaters - [Kaggle Link](https://www.kaggle.com/datasets/flynn28/nhl-player-database?select=GOALIES.csv)
+
+### Football Datasets
+
+- NFL 2017 Player Salary and NFL 2018 Active Roster - [Kaggle Link](https://www.kaggle.com/datasets/thedevastator/nfl-player-performance-and-salary-insights-2018/data)
+- NFL Rushing Data - [Kaggle Link](https://www.kaggle.com/datasets/rishabjadhav/nfl-rushing-statistics-2001-2023)
+- NFL Player Stats - [Kaggle Link](https://www.kaggle.com/datasets/loganlauton/nfl-player-data)
+- Super Bowl History (1967 - 2020) - [Kaggle Link](https://www.kaggle.com/datasets/timoboz/superbowl-history-1967-2020)
+
