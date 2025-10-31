@@ -6,6 +6,8 @@
 
 - 2023_MLB_Stats_Batting/Pitching - [Kaggle Link](https://www.kaggle.com/datasets/vivovinco/2023-mlb-player-stats)
 - 500_hits.csv - [Kaggle Link](https://www.kaggle.com/datasets/krupadharamshi/500hits)
+- Hitters.csv - [Kaggle Link](https://www.kaggle.com/datasets/wasiqaliyasir/hitters-dataset)
+- Salaries.csv - [Kaggle Link](https://www.kaggle.com/datasets/thedevastator/maximizing-profits-with-mlb-player-salaries-and)
 
 ### Hockey Datasets
 
